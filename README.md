@@ -1,4 +1,3 @@
-# madsi-citas-clinica
 # Sistema de Gestión de Citas para una Clínica
 
 ## Descripción del sistema
